@@ -1,0 +1,5 @@
+{
+  "name": "ហេង​ គង់ហេង",
+  "description": "An image enhancement application using Gemini API, designed in Khmer language with light and dark mode support. Upload an image of a building and the AI will enhance it based on a predefined realistic style.",
+  "requestFramePermissions": []
+}
